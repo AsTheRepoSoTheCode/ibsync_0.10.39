@@ -1,4 +1,4 @@
-module github.com/scmhub/ibsync
+module github.com/AsTheRepoSoTheCode/ibsync_0.10.39
 
 go 1.23.0
 
